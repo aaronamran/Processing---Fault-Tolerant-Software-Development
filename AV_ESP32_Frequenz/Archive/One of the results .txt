@@ -1,0 +1,5 @@
+Runde: 0, Param 1: 0.68, Param 2: 0.5, Outlier Num: 14
+Runde: 1, Param 1: 0.68, Param 2: 0.50793016, Outlier Num: 7
+Runde: 2, Param 1: 0.68, Param 2: 0.5001366, Outlier Num: 10
+Runde: 3, Param 1: 0.6647641, Param 2: 0.50793016, Outlier Num: 4
+Runde: 4, Param 1: 0.667432, Param 2: 0.50793016, Outlier Num: 5
